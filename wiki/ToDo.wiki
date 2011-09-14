@@ -1,0 +1,4 @@
+#summary DoTo List
+
+* Let the user set a scale
+* Fix CPU issues on low-end phones
